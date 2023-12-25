@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Country Simulator", "Country Simulator\Country Simulator.csproj", "{126D8A66-BDE8-463A-B261-588EDAC0B7DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{126D8A66-BDE8-463A-B261-588EDAC0B7DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{126D8A66-BDE8-463A-B261-588EDAC0B7DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{126D8A66-BDE8-463A-B261-588EDAC0B7DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{126D8A66-BDE8-463A-B261-588EDAC0B7DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2886FC07-CFF0-40B6-9925-EE0448534E36}
+	EndGlobalSection
+EndGlobal
